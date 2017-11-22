@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "template_project", "code4life\template_project.csproj", "{B08DBCCC-5AA3-4428-9635-A98AA71E1F20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "template_project", "template_project\template_project.csproj", "{B08DBCCC-5AA3-4428-9635-A98AA71E1F20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "template_project_tests", "code4life_tests\template_project_tests.csproj", "{8D1C5ACC-830A-408C-B5F8-A094BE034875}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "template_project_tests", "template_project_tests\template_project_tests.csproj", "{8D1C5ACC-830A-408C-B5F8-A094BE034875}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

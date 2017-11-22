@@ -9,8 +9,8 @@
     <ProjectGuid>{B08DBCCC-5AA3-4428-9635-A98AA71E1F20}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>code4life</RootNamespace>
-    <AssemblyName>code4life</AssemblyName>
+    <RootNamespace>template_project</RootNamespace>
+    <AssemblyName>template_project</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>

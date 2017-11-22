@@ -13,6 +13,8 @@ namespace template_project_tests
             Console.SetIn(new StreamReader("../../assets/testing.txt"));
 
             g = new Game();
+
+            Assert.NotNull(g);
         }
 
         [Fact]
